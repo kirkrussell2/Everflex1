@@ -1,0 +1,3 @@
+C:\Users\krussell\source\repos\Everflex1\Everflex1\obj\Debug\Everflex1.njsproj.AssemblyReference.cache
+C:\Users\krussell\source\repos\Everflex1\Everflex1\obj\Debug\Everflex1.njsproj.CoreCompileInputs.cache
+C:\Users\krussell\source\repos\Everflex1\Everflex1\bin\Microsoft.NodejsTools.WebRole.dll

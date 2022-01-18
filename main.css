@@ -1,0 +1,173 @@
+.header {
+    background-image: url('./imgs/hero-bg.jpg');
+    padding-top: 100px;
+    padding-bottom: 130px;
+    margin-top:0;
+    display: block;
+    width: 100%;
+}
+.rowcontent{
+    padding-left: 150px;
+    background: linear-gradient(to bottom, #fff 10%, #f3f3f3 100%);
+}
+.p{
+    padding-top: 35px;
+    text-align: center;
+    font-size: 18px;
+}
+.footer {
+    text-align: center;
+    background-color: white;
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+    padding-top: 50px;
+    color:dimgrey;
+}
+.everflexh1{
+    text-align:center;
+    color: white;
+    padding-top: 50px;
+    
+}
+.everflexheading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 255px;
+    height: 75px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.column-4 {
+    float: left;
+    width: 16%;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+}
+.section-heading {
+    text-align: center;
+    color: #102C4E;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    font-size: 35px;
+}
+.project-1 {
+    background-color: #b3d4fc;
+    background-size: cover;
+}
+
+.project-2 {
+    background-color: white;
+}
+
+.project-3 {
+    background-color: #b3d4fc;
+}
+
+.project-4 {
+    background-color: white;
+}
+
+.project-5 {
+    background-color: #b3d4fc;
+}
+
+.project-6 {
+    background-color: white;
+}
+
+.project-7 {
+    background-color: #b3d4fc;
+}
+
+.project-8 {
+    background-color:white;
+    background-size: cover;
+}
+.project-9 {
+    background-color: #b3d4fc;
+    background-size: cover;
+}
+.project-10 {
+    background-color: white;
+    background-size: cover;
+}
+.project-11 {
+    background-color: #b3d4fc;
+    background-size: cover;
+}
+.project-12 {
+    background-color: white;
+    background-size: cover;
+}
+.project-13 {
+    background-color: #b3d4fc;
+    background-size: cover;
+}
+.project-14 {
+    background-color: white;
+    background-size: cover;
+}
+.project-15 {
+    background-color: #b3d4fc;
+    background-size: cover;
+}
+.project-text {
+    margin-top: 120px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+.project-1:hover {
+    background-color: #FEDE00;
+}
+.project-2:hover {
+    background-color: #FEDE00;
+}
+
+.project-3:hover {
+    background-color: #FEDE00;
+}
+
+.project-4:hover {
+    background-color: #FEDE00;
+}
+
+.project-5:hover {
+    background-color: #FEDE00;
+}
+
+.project-6:hover {
+    background-color: #FEDE00;
+}
+
+.project-7:hover {
+    background-color: #FEDE00;
+}
+.project-8:hover {
+    background-color: #FEDE00;
+}
+.project-9:hover {
+    background-color: #FEDE00;
+}
+.project-10:hover {
+    background-color: #FEDE00;
+}
+.project-11:hover {
+    background-color: #FEDE00;
+}
+.project-12:hover {
+    background-color: #FEDE00;
+}
+.project-13:hover {
+    background-color: #FEDE00;
+}
+.project-14:hover {
+    background-color: #FEDE00;
+}
+.project-15:hover {
+    background-color: #FEDE00;
+}
